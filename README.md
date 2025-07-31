@@ -27,3 +27,15 @@ This repository is a collection of Java programs designed to strengthen your und
 
 Feel free to fork, improve, or add new problems to this repo.  
 Learning grows stronger when shared! 💡
+
+---
+
+## 🧑‍💻 **Author** 
+
+**Muhammad Shayan Shahid**  
+📍 Java & Front-End Learner  
+📧 [msshahid23052006@gmail.com](mailto:msshahid23052006@gmail.com)  
+
+Feel free to connect or reach out for collaboration or feedback! 🤝
+
+---
